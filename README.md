@@ -6,7 +6,7 @@ I have 3+ years of professional experience as a Backend Developer working with t
 
 But enough with words, let's see my projects and what I've done currently. Hope you like it and it's a pleasure having you here! Hope you have a nice week! If you want to continue this conversation, please add me on Twitter and DM me! I'm open to everything, from casual chatter to job offers.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xTecna&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xTecna&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
