@@ -31,15 +31,19 @@ But enough of words, let's see my projects and what I've done currently. Hope yo
 <a href="https://github.com/xTecna/lor-showcase">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xTecna&repo=lor-showcase&theme=dark" />
 </a>
+<br/>
 <a href="https://github.com/xTecna/lor-torneio-overlay">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xTecna&repo=lor-torneio-overlay&theme=dark" />
 </a>
+<br/>
 <a href="https://github.com/xTecna/lor-deck-checker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xTecna&repo=lor-deck-checker&theme=dark" />
 </a>
+<br/>
 <a href="https://github.com/xTecna/lor-card-gatherer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xTecna&repo=lor-card-gatherer&theme=dark" />
 </a>
+<br/>
 <a href="https://github.com/xTecna/lor-decks-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xTecna&repo=lor-decks-stats&theme=dark" />
 </a>
@@ -56,21 +60,7 @@ Both of my artificial intelligence projects offers different perspectives to <a 
 <a href="https://github.com/xTecna/2048">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xTecna&repo=2048&theme=dark" />
 </a>
+<br/>
 <a href="https://github.com/xTecna/checkers">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xTecna&repo=checkers&theme=dark" />
 </a>
-
-<!--
-**xTecna/xTecna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
