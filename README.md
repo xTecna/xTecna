@@ -3,15 +3,19 @@
 <a href="https://www.github.com/xTecna">
   <img alt="GitHub Followers" src="https://img.shields.io/github/followers/xtecna?label=Follow">
 </a>
+<a href="https://www.twitter.com/WNXTecna">
+  <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/WNXTecna?label=Follow">
+</a>
 <a href="https://www.twitch.tv/xTecna">
   <img alt="Twitch Status" src="https://img.shields.io/twitch/status/xtecna?style=plastic">
 </a>
+
 
 I'm Raquel Marcolino (she/her), better known as Tecna, I'm 27 years old and I am currently pursuing a Doctors degree in Artificial Intelligence (check out my 2048 and Checkers repositories if you want to see what I'm currently working on on my thesis).
 
 I have 3+ years of professional experience as a Backend Developer working with tools such as C#, ASP.NET, PowerShell, Windows Forms and all that Windows jazz, but in my free time, I love to delve more onto two different areas: <strong>Algorithms</strong> (as this was my Master's theme and my lifelong passion) and <strong>Web Development</strong>, mainly with the HTML/CSS/JavaScript stack but I'm currently learning React a lot with my current magnum opus (my LoR Tournament Overlay repository), making several projects to aid the Legends of Runeterra community.
 
-But enough with words, let's see my projects and what I've done currently. Hope you like it and it's a pleasure having you here! Hope you have a nice week! If you want to continue this conversation, please add me on Twitter and DM me! I'm open to everything, from casual chatter to job offers.
+But enough with words, let's see my projects and what I've done currently. Hope you like it and it's a pleasure having you here! Hope you have a nice week! If you want to continue this conversation, please follow me on Twitter and DM me! I'm game to everything, from casual chatter to job offers.
 
 <h2>My Github Stats</h2>
 
