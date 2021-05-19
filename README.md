@@ -8,7 +8,7 @@ But enough with words, let's see my projects and what I've done currently. Hope 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xTecna&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xTecna)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
