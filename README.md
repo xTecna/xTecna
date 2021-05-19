@@ -1,4 +1,4 @@
-<h1>Welcome to my repository! 😄</h1>
+<h1>❤ Welcome to my repository!</h1>
 
 <a href="https://www.github.com/xTecna">
   <img alt="GitHub Followers" src="https://img.shields.io/github/followers/xTecna?label=Follow&style=social">
