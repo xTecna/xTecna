@@ -31,36 +31,33 @@ But enough with words, let's see my projects and what I've done currently. Hope 
 
 <h2>Runeterra Projects</h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/xTecna/lor-showcase">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xTecna&repo=lor-showcase&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xTecna&repo=lor-showcase&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/xTecna/lor-torneio-overlay">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xTecna&repo=lor-torneio-overlay&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/xTecna/lor-deck-checker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xTecna&repo=lor-deck-checker&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/xTecna/lor-card-gatherer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xTecna&repo=lor-card-gatherer&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/xTecna/lor-decks-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xTecna&repo=lor-decks-stats&theme=dark" />
 </a>
 
 I also contributed to the Node.js library to encode and decode LoR decks. Check my contribution here:
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/xTecna/runeterra">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xTecna&repo=runeterra&theme=dark" />
 </a>
 
 <h2>Artificial Intelligence Projects</h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/xTecna/2048">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xTecna&repo=2048&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/xTecna/checkers">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xTecna&repo=checkers&theme=dark" />
 </a>
 
