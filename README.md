@@ -31,19 +31,15 @@ But enough of words, let's see my projects and what I've done currently. Hope yo
 <a href="https://github.com/xTecna/lor-showcase">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xTecna&repo=lor-showcase&theme=dark" />
 </a>
-<br/>
 <a href="https://github.com/xTecna/lor-torneio-overlay">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xTecna&repo=lor-torneio-overlay&theme=dark" />
 </a>
-<br/>
 <a href="https://github.com/xTecna/lor-deck-checker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xTecna&repo=lor-deck-checker&theme=dark" />
 </a>
-<br/>
 <a href="https://github.com/xTecna/lor-card-gatherer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xTecna&repo=lor-card-gatherer&theme=dark" />
 </a>
-<br/>
 <a href="https://github.com/xTecna/lor-decks-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xTecna&repo=lor-decks-stats&theme=dark" />
 </a>
@@ -59,4 +55,7 @@ Both of my artificial intelligence projects offers different perspectives to <a 
 
 <a href="https://github.com/xTecna/checkers">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xTecna&repo=checkers&theme=dark" />
+</a>
+<a href="https://github.com/xTecna/2048">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xTecna&repo=2048&theme=dark" />
 </a>
