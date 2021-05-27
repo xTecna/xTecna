@@ -51,7 +51,7 @@ I also contributed to the Node.js library to encode and decode LoR decks. Check 
 
 <h2>Artificial Intelligence Projects</h2>
 
-Both of my artificial intelligence projects offers different perspectives to <a href="https://en.wikipedia.org/wiki/Monte_Carlo_tree_search">Monte Carlo Tree Search</a>, a best-first tree search algorithms that searches for the best movements in a given game scenario.
+Both of my artificial intelligence projects offers different perspectives to <a href="https://en.wikipedia.org/wiki/Monte_Carlo_tree_search">Monte Carlo Tree Search</a>, a best-first tree search algorithm that searches for the best movements in a given game scenario.
 
 <a href="https://github.com/xTecna/checkers">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xTecna&repo=checkers&theme=dark" />
