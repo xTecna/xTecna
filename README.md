@@ -3,7 +3,7 @@
 <a href="https://www.github.com/xTecna">
   <img alt="GitHub Followers" src="https://img.shields.io/github/followers/xTecna?label=Follow&style=social">
 </a>
-<a href="https://www.twitter.com/WNXTecna">
+<a href="https://www.twitter.com/rTecna">
   <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/WNXTecna?label=Follow">
 </a>
 <a href="https://www.twitch.tv/xTecna">
