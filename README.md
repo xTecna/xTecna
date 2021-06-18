@@ -4,7 +4,7 @@
   <img alt="GitHub Followers" src="https://img.shields.io/github/followers/xTecna?label=Follow&style=social">
 </a>
 <a href="https://www.twitter.com/rTecna">
-  <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/WNXTecna?label=Follow">
+  <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/rTecna?label=Follow">
 </a>
 <a href="https://www.twitch.tv/xTecna">
   <img alt="Twitch Status" src="https://img.shields.io/twitch/status/xtecna?style=social">
